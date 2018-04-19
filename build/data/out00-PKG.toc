@@ -1,0 +1,48 @@
+("C:\\Users\\CJ' PC\\Desktop\\Python\\GITHUB "
+ 'PROJECTS\\PyCar-InterfaceSQL\\build\\data\\out00-PKG.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('out00-PYZ.pyz',
+   "C:\\Users\\CJ' PC\\Desktop\\Python\\GITHUB "
+   'PROJECTS\\PyCar-InterfaceSQL\\build\\data\\out00-PYZ.pyz',
+   'PYZ'),
+  ('struct',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('data',
+   "C:\\Users\\CJ' PC\\Desktop\\Python\\GITHUB "
+   'PROJECTS\\PyCar-InterfaceSQL\\data.py',
+   'PYSOURCE'),
+  ('data.exe.manifest',
+   "C:\\Users\\CJ' PC\\Desktop\\Python\\GITHUB "
+   'PROJECTS\\PyCar-InterfaceSQL\\build\\data\\data.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False)
