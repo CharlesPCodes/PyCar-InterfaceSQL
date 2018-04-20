@@ -25,6 +25,9 @@ app.addLabelEntry("Color", 1,1)
 app.addLabelEntry("PlateNum",2,0)
 app.setEntryDefault("PlateNum", "XXX XXX")
 app.setEntryUpperCase("PlateNum")
+app.addLabelEntry("Search Plate Number", 2,1)
+app.setEntryDefault("Search Plate Number", "XXX XXX")
+app.setEntryUpperCase("Search Plate Number")
 
 
 def press(button):
@@ -40,7 +43,8 @@ def press(button):
 		app.clearEntry("Car Type")
 		app.clearEntry("Color")
 		app.clearEntry("PlateNum")
-	
+	elif button == "Clear Search":
+		app.clearEntry("Search Plate Number")
 	
 	elif button == "Search":
 
@@ -49,7 +53,7 @@ def press(button):
 
 		plateSearch = app.getEntry("Search Plate Number")
 		print(plateSearch)
-		c.execute('SELECT * FROM suspiciouscars WHERE PlateNum= "%s"' %(plateSearch))
+		c.execute('SELECT * FROM cars WHERE PlateNum= "%s"' %(plateSearch))
 		all_rows = c.fetchall()
 		print(all_rows)
 		app.infoBox("Search Results", all_rows)
@@ -65,14 +69,14 @@ def press(button):
 		userPlate = app.getEntry("PlateNum")
 		
 		# print("Date:",date, "Time", time)
-		sql_Statement = "insert into cars values (?,?,?,?,?,?);"
+		sql_Statement = "insert into cars values (?,?,?,?,?);"
 		c.execute(sql_Statement, (userDate, userTime,  userType, userColor, userPlate))
 		conn.commit()
 		app .infoBox("Sus Cars", "Data succesfully entered" , parent=None)
 
 
 app.addButtons(["Submit", "Clear", "Cancel"], press)
-app.addButtons(["Search", "Clear Search"], press, 2,1)
+app.addButtons(["Search", "Clear Search"], press, 3,1)
 app.setBg("orange")
 app.setFont(16)
 

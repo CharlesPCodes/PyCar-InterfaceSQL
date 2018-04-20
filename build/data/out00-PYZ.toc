@@ -12,21 +12,9 @@
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\datetime.py',
    'PYMODULE'),
-  ('stringprep',
+  ('struct',
    "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\stringprep.py',
-   'PYMODULE'),
-  ('stat',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\stat.py',
-   'PYMODULE'),
-  ('genericpath',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\genericpath.py',
-   'PYMODULE'),
-  ('posixpath',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\posixpath.py',
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\struct.py',
    'PYMODULE'),
   ('fnmatch',
    "c:\\users\\cj' "
@@ -188,6 +176,14 @@
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\platform.py',
    'PYMODULE'),
+  ('token',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\tokenize.py',
+   'PYMODULE'),
   ('urllib.parse',
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\parse.py',
@@ -304,10 +300,6 @@
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\charset.py',
    'PYMODULE'),
-  ('base64',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\base64.py',
-   'PYMODULE'),
   ('email._encoded_words',
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_encoded_words.py',
@@ -404,10 +396,6 @@
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\pydoc.py',
    'PYMODULE'),
-  ('getopt',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\getopt.py',
-   'PYMODULE'),
   ('pdb',
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\pdb.py',
@@ -460,6 +448,14 @@
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\doctest.py',
    'PYMODULE'),
+  ('textwrap',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('argparse',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\argparse.py',
+   'PYMODULE'),
   ('pprint',
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\pprint.py',
@@ -475,6 +471,18 @@
   ('warnings',
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\warnings.py',
+   'PYMODULE'),
+  ('stat',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\posixpath.py',
    'PYMODULE'),
   ('enum',
    "c:\\users\\cj' "
@@ -516,33 +524,25 @@
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\os.py',
    'PYMODULE'),
-  ('token',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\token.py',
-   'PYMODULE'),
   ('copy',
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\copy.py',
-   'PYMODULE'),
-  ('textwrap',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\textwrap.py',
-   'PYMODULE'),
-  ('struct',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\struct.py',
    'PYMODULE'),
   ('gettext',
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\gettext.py',
    'PYMODULE'),
-  ('argparse',
+  ('getopt',
    "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\argparse.py',
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\getopt.py',
    'PYMODULE'),
-  ('tokenize',
+  ('base64',
    "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\tokenize.py',
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('stringprep',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\stringprep.py',
    'PYMODULE'),
   ('sqlite3',
    "c:\\users\\cj' "
