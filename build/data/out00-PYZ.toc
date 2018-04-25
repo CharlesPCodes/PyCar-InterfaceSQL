@@ -1,10 +1,6 @@
 ("C:\\Users\\CJ' PC\\Desktop\\Python\\GITHUB "
  'PROJECTS\\PyCar-InterfaceSQL\\build\\data\\out00-PYZ.pyz',
- [('ntpath',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\ntpath.py',
-   'PYMODULE'),
-  ('_strptime',
+ [('_strptime',
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\_strptime.py',
    'PYMODULE'),
@@ -12,13 +8,33 @@
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\datetime.py',
    'PYMODULE'),
-  ('struct',
+  ('ntpath',
    "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\struct.py',
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('stringprep',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('stat',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\posixpath.py',
    'PYMODULE'),
   ('fnmatch',
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('struct',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\struct.py',
    'PYMODULE'),
   ('_compat_pickle',
    "c:\\users\\cj' "
@@ -300,6 +316,10 @@
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\charset.py',
    'PYMODULE'),
+  ('base64',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\base64.py',
+   'PYMODULE'),
   ('email._encoded_words',
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_encoded_words.py',
@@ -396,6 +416,10 @@
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\pydoc.py',
    'PYMODULE'),
+  ('getopt',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\getopt.py',
+   'PYMODULE'),
   ('pdb',
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\pdb.py',
@@ -448,9 +472,17 @@
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\doctest.py',
    'PYMODULE'),
+  ('copy',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\copy.py',
+   'PYMODULE'),
   ('textwrap',
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('gettext',
+   "c:\\users\\cj' "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\gettext.py',
    'PYMODULE'),
   ('argparse',
    "c:\\users\\cj' "
@@ -471,22 +503,6 @@
   ('warnings',
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\warnings.py',
-   'PYMODULE'),
-  ('stat',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\stat.py',
-   'PYMODULE'),
-  ('genericpath',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\genericpath.py',
-   'PYMODULE'),
-  ('posixpath',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\posixpath.py',
-   'PYMODULE'),
-  ('enum',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\enum.py',
    'PYMODULE'),
   ('signal',
    "c:\\users\\cj' "
@@ -524,25 +540,9 @@
    "c:\\users\\cj' "
    'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\os.py',
    'PYMODULE'),
-  ('copy',
+  ('enum',
    "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\copy.py',
-   'PYMODULE'),
-  ('gettext',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\gettext.py',
-   'PYMODULE'),
-  ('getopt',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\getopt.py',
-   'PYMODULE'),
-  ('base64',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\base64.py',
-   'PYMODULE'),
-  ('stringprep',
-   "c:\\users\\cj' "
-   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\stringprep.py',
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\enum.py',
    'PYMODULE'),
   ('sqlite3',
    "c:\\users\\cj' "

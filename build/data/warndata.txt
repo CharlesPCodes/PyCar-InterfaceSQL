@@ -17,8 +17,8 @@ missing module named urllib.urlopen - imported by urllib, appJar.appjar
 missing module named urllib.urlencode - imported by urllib, appJar.appjar
 missing module named grp - imported by tarfile, shutil, C:\Users\CJ' PC\Desktop\Python\GITHUB PROJECTS\PyCar-InterfaceSQL\data.py
 missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, C:\Users\CJ' PC\Desktop\Python\GITHUB PROJECTS\PyCar-InterfaceSQL\data.py
-missing module named _dummy_threading - imported by dummy_threading, C:\Users\CJ' PC\Desktop\Python\GITHUB PROJECTS\PyCar-InterfaceSQL\data.py
 missing module named 'org.python' - imported by copy, xml.sax, C:\Users\CJ' PC\Desktop\Python\GITHUB PROJECTS\PyCar-InterfaceSQL\data.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\CJ' PC\Desktop\Python\GITHUB PROJECTS\PyCar-InterfaceSQL\data.py
 missing module named 'idlelib.TreeWidget' - imported by appJar.appjar
 missing module named cpngfilters - imported by appJar.lib.png
 missing module named Queue - imported by appJar.appjar
