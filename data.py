@@ -50,9 +50,7 @@ def press(button):
 		# print(plateSearch)
 		c.execute('SELECT * FROM cars WHERE CarType= "%s"' %(carSearch))
 		all_rows = c.fetchall()
-		print(all_rows)
-		app.infoBox("Search Results", all_rows)
-		app.startSubWindow("Search", modal=True)
+		print(*all_rows, sep="\n")
 	elif button == "Clear Search":
 		app.clearEntry("Search Car")
 
